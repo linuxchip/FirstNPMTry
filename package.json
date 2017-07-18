@@ -1,0 +1,36 @@
+{
+  "name": "firstsample",
+  "version": "1.0.3",
+  "description": "First public npm sample package to create, test and publish to npm registry",
+  "main": "firstmodule.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxchip/FirstNPMTry.git"
+  },
+  "keywords": [
+    "npm",
+    "npm",
+    "first",
+    "time",
+    "npm",
+    "publish",
+    "npm",
+    "registry"
+  ],
+  "author": "“LINUXCHIP” <“aravinda78@yahoo.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linuxchip/FirstNPMTry/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/linuxchip/FirstNPMTry#readme",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
