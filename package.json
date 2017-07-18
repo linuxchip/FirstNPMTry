@@ -1,6 +1,6 @@
 {
   "name": "firstsample",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "First public npm sample package to create, test and publish to npm registry",
   "main": "firstmodule.js",
   "scripts": {

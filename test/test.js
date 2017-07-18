@@ -11,9 +11,5 @@ describe('first npm publish test', function() {
 	expect(result).to.equal('My First NPM Publish'); 
     });
 
-    it('wrong test case', function() {
-	var result = firstTest.firstmodule();
-	expect(result).to.equal('My second NPM Publish'); 
-    });
 });
 
